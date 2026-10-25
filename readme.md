@@ -78,6 +78,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
 - [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
+- [wsl-shadow](https://github.com/kanchingyg/wsl-shadow) - Detect Windows-to-WSL2 `PATH`, `node_modules/.bin`, and symlink shadowing hazards in cross-platform scripts.
 
 ### Utility Packs
 
@@ -91,6 +92,8 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [headr](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
+- [exports-shadow](https://github.com/kanchingyg/exports-shadow) - Validate `package.json` subpath exports and TypeScript `moduleResolution` boundaries before publishing.
+- [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) - Offline pre-flight linter for Cloudflare Workers configs, D1 migrations, and `workerd` global-scope contracts.
 
 ## Miscellaneous
 
